@@ -9,7 +9,7 @@ The main aim of the Bank Nifty Heat Map is to simplify complex market data and m
 ## Usage Instructions
 1. **Installation**: Clone the repository to your local machine using the command:
    ```
-   git clone https://github.com/abhijeetbishayee-drb/banknifty-heat-map.git
+   git clone https://github.com/sectorchakra/banknifty-heat-map.git
    ```
 
 2. **Dependencies**: Make sure to install all the necessary dependencies listed in the `requirements.txt` file using:
